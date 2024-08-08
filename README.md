@@ -5,12 +5,12 @@
   <a href="https://github.com/dumtux/tinkerbms/blob/main/LICENSE"><img alt="License" src="https://img.shields.io/badge/license-MIT-blue"></a>
 </div>
 
+
 ## Why TinkerBMS?
 
 There's already an excellent BMS reader - [`dbus-serialbattery`][dbus-serialbattery].
 But it is for [Venus OS](https://github.com/victronenergy/venus) only.
 I'd like to do the same on any platform - PCs, microcontrollers, and SBCs.
-
 
 ### What TinkerBMS is:
 
@@ -23,6 +23,7 @@ I'd like to do the same on any platform - PCs, microcontrollers, and SBCs.
 * support more BMS protocols that `dbus-serialbattery` doesn't yet
 * support more interfaces, e.g. CAN, SMbus, Bluetooth(LE)
 
+
 ## BMS Communication Protocols
 
 | Battery  | Vendor                  | Protocol                                             |
@@ -30,8 +31,11 @@ I'd like to do the same on any platform - PCs, microcontrollers, and SBCs.
 | 48NPFC50 | [MPINarada][mfr-narada] | [Shinwa BMS Protocol](./doc/protocol-shinwa-bms.pdf) |
 | ZTT48100 | [Zhongtian][mfr-ztt]    | [Zhongtian BMS Protocol](./doc/protocol-ztt-bms.pdf) |
 
-I hope more batteries are added in this list.
-But these two are only batteries that I have at the moment of writing.
+
+<img src="./doc/img/narada-npfc50.jpg" width=35%>
+<img src="./doc/img/zhongtian-ztt48100.jpg" width=35%>
+
+(I hope more batteries are added in this list. But these two are only batteries that I have at the moment of writing.)
 
 
 ## Other Resources
@@ -48,7 +52,7 @@ But these two are only batteries that I have at the moment of writing.
 ***
 
 <div align="center">
-<img src="./doc/logo.jpg" width=20%>
+<img src="./doc/img/logo.jpg" width=20%>
   <h1>TinkerBMS</h1>
   <p>Python library to read/write BMS via RS485/RS232</p>
 </div>
