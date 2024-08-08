@@ -55,4 +55,6 @@ I'd like to do the same on any platform - PCs, microcontrollers, and SBCs.
 <img src="./doc/img/logo.jpg" width=20%>
   <h1>TinkerBMS</h1>
   <p>Python library to read/write BMS via RS485/RS232</p>
+  <img src="./doc/img/copilot-mockup.jpg" width=50%>
+  <p>Images designed with Microcoft Copilot</p>
 </div>
