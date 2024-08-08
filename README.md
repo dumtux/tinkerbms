@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="./doc/logo.jpg" width=20%>
   <h1>TinkerBMS</h1>
   <p>Python library to read/write BMS via RS485/RS232</p>
   <a href="https://github.com/dumtux/tinkerbms/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/dumtux/tinkerbms"></a>
@@ -34,7 +33,6 @@ I'd like to do the same on any platform - PCs, microcontrollers, and SBCs.
 I hope more batteries are added in this list.
 But these two are only batteries that I have at the moment of writing.
 
-***
 
 ## Other Resources
 
@@ -45,3 +43,12 @@ But these two are only batteries that I have at the moment of writing.
 [dbus-serialbattery]: https://github.com/Louisvdw/dbus-serialbattery
 [mfr-narada]: https://mpinarada.com/
 [mfr-ztt]: https://www.zttgroup.com/
+
+
+***
+
+<div align="center">
+<img src="./doc/logo.jpg" width=20%>
+  <h1>TinkerBMS</h1>
+  <p>Python library to read/write BMS via RS485/RS232</p>
+</div>
